@@ -1,13 +1,13 @@
 # Data Analyst
 
 
-# Education
+### Education
 MSc Computing
 
 
-# Work Experience
+### Work Experience
 - Data Analyst
 
 - Performance Analyst
 
-# Skills
+### Skills
